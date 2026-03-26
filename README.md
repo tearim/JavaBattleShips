@@ -108,5 +108,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Uses [jnativehook](https://github.com/kwhat/jnativehook) for global keyboard input
-- Custom Fansi library for ANSI console styling (will be published as a separate repo :p)
+- Custom Fansi library for ANSI console styling (check [AnsiFansi](https://github.com/tearim/AnsiFansi) out!)
 - SmartFutureCampus for support and help
